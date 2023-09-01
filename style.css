@@ -25,6 +25,11 @@
         align-items: center;
         justify-content: space-between;
         padding: 0px;
+        z-index: 1;
+    }
+    .course{
+        position: absolute;
+        margin-bottom: -450px;
     }
 
 
